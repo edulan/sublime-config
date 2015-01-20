@@ -1,0 +1,29 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2",
+		"ssl-linux"
+	],
+	"installed_packages":
+	[
+		"CTags",
+		"EditorConfig",
+		"GitGutter",
+		"Guard",
+		"Haml",
+		"JSHint Gutter",
+		"Open URL",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-haml",
+		"SublimeLinter-jshint",
+		"SublimeLinter-rubocop",
+		"Theme - Afterglow",
+		"TrailingSpaces"
+	]
+}
