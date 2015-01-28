@@ -10,7 +10,10 @@
 	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
+		"Console API Snippets (JavaScript)",
 		"CTags",
+		"DocBlockr",
 		"EditorConfig",
 		"GitGutter",
 		"Guard",
@@ -26,6 +29,7 @@
 		"SublimeLinter-haml",
 		"SublimeLinter-jshint",
 		"SublimeLinter-rubocop",
+		"tern_for_sublime",
 		"Theme - Afterglow",
 		"TrailingSpaces"
 	]
