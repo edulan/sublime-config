@@ -20,7 +20,7 @@
 		"Haml",
 		"JSHint Gutter",
 		"Markdown Preview",
-		"MarkdownLight",
+		"MarkdownEditing",
 		"Open URL",
 		"Package Control",
 		"RSpec",
@@ -31,6 +31,7 @@
 		"SublimeLinter-rubocop",
 		"tern_for_sublime",
 		"Theme - Afterglow",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"yardoc"
 	]
 }
