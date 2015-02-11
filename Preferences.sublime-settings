@@ -1,20 +1,47 @@
 {
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache"],
-	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace", ".tags", ".tags_sorted_by_file"],
-
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true,
-
-	// "font_size": 11,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".tags",
+		".tags_sorted_by_file"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
 	],
-
-	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"status_bar_brighter": true,
+	"tab_size": 2,
 	"theme": "Afterglow-orange.sublime-theme",
-	"status_bar_brighter": true
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
 }
