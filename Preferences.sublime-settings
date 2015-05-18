@@ -39,6 +39,10 @@
 		"Markdown",
 		"Vintage"
 	],
+	"rulers":
+	[
+		80
+	],
 	"status_bar_brighter": true,
 	"tab_size": 2,
 	"theme": "Afterglow-orange.sublime-theme",
