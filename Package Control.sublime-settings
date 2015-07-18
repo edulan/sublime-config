@@ -30,6 +30,7 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-haml",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SublimeLinter-rubocop",
 		"Theme - Afterglow",
 		"TrailingSpaces",
