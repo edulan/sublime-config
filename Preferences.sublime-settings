@@ -51,6 +51,5 @@
 	"show_line_endings": true,
 	"default_line_ending": "unix",
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
-	"draw_white_space": "all"
+	"ensure_newline_at_eof_on_save": true
 }
