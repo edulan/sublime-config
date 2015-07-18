@@ -36,8 +36,8 @@
 	],
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"rulers":
 	[
@@ -46,6 +46,11 @@
 	"status_bar_brighter": true,
 	"tab_size": 2,
 	"theme": "Afterglow-orange.sublime-theme",
+	"use_tab_stops": true,
 	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true
+	"show_line_endings": true,
+	"default_line_ending": "unix",
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"draw_white_space": "all"
 }
