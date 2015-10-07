@@ -11,6 +11,16 @@
 		"lint_mode": "background",
 		"linters":
 		{
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"haml":
 			{
 				"@disable": false,
@@ -23,13 +33,24 @@
 			},
 			"jshint":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
 				"excludes":
 				[
 				]
+			},
+			"json":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"strict": true
 			},
 			"rubocop":
 			{
