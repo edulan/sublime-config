@@ -1,6 +1,8 @@
 {
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/primer.light (SL).tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -36,20 +38,19 @@
 	],
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"rulers":
 	[
 		80
 	],
+	"show_line_endings": true,
 	"status_bar_brighter": true,
 	"tab_size": 2,
-	"theme": "Afterglow-orange.sublime-theme",
-	"use_tab_stops": true,
+	"theme": "Primer.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"show_line_endings": true,
-	"default_line_ending": "unix",
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true
+	"use_tab_stops": true,
+	"copy_with_empty_selection": false
 }
