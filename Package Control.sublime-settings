@@ -1,9 +1,11 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"BeautifyRuby",
 		"Better CoffeeScript",
 		"Console API Snippets (JavaScript)",
 		"CTags",
@@ -14,11 +16,13 @@
 		"GitGutter",
 		"Guard",
 		"Haml",
+		"HTML-CSS-JS Prettify",
 		"Jade",
 		"JSHint Gutter",
 		"LiveStyle",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Oceanic Next Color Scheme",
 		"Open URL",
 		"Origami",
 		"Package Control",
@@ -33,6 +37,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-rubocop",
 		"Theme - Afterglow",
+		"Theme - Primer",
 		"TrailingSpaces",
 		"yardoc"
 	]
