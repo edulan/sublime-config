@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"BeautifyRuby",
 		"Better CoffeeScript",
 		"Console API Snippets (JavaScript)",
@@ -18,7 +19,6 @@
 		"Haml",
 		"HTML-CSS-JS Prettify",
 		"Jade",
-		"JavaScriptNext - ES6 Syntax",
 		"JSHint Gutter",
 		"LiveStyle",
 		"Markdown Preview",
